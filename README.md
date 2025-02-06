@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lonlysoft</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h1 align="center">Hi, I'm Lonlysoft</h1>
 
 - 🔭 I’m currently working on [Funky Pack](https://github.com/Lonlysoft/Funky_Pack)
 
