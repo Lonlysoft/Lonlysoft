@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Lonlysoft</h1>
 ![lonlysoft's Stats](https://github-readme-stats.vercel.app/api?username=lonlysoft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![lonlysoft's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lonlysoft&theme=vue-dark&hide_border=true)
+
 ![lonlysoft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonlysoft&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - 🔭 I’m currently working on [Funky Pack](https://github.com/Lonlysoft/Funky_Pack)
